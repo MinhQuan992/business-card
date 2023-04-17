@@ -2,4 +2,8 @@
     <string name="app_name">Business Card</string>
     <string name="full_name">Quan Tran Minh Vo</string>
     <string name="title">Software Engineer</string>
+    <string name="phone_number">(+84) 978997575</string>
+    <string name="email">tranminhquanvo@gmail.com</string>
+    <string name="github">MinhQuan992</string>
+    <string name="company">KMS Healthcare</string>
 </resources>
